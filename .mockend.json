@@ -10,7 +10,7 @@
     "body": "string",
     "post": "Post"
   },
-  users:{
+  "User":{
     "id":"int",
     "name":"string"
   }
